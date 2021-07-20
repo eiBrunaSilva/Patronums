@@ -1,0 +1,41 @@
+/* Geral */
+.row {
+  margin: 0;
+}
+
+.container {
+  padding: 70px 0;
+}
+/* Menu */
+
+header,
+.navbar {
+  background: #fab855;
+}
+
+#nav-container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* .navbar-nav {
+  padding: 0;
+  decoration: none;
+  color: #554646;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-nav:hover {
+  color: #fff;
+} */
+
+#navbar-links a {
+  padding: 0;
+  decoration: none;
+  color: #554646;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-expanded-lg .navbar-nav .nav-link {
+  padding: 1rem 0.8rem;
+}
