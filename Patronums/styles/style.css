@@ -1,41 +1,73 @@
-/* Geral */
-.row {
-  margin: 0;
+/* MENU */
+
+.menu {
+  list-style: none;
+  border: 25px solid #fab855;
 }
 
-.container {
-  padding: 70px 0;
-}
-/* Menu */
-
-header,
-.navbar {
-  background: #fab855;
-}
-
-#nav-container {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
-/* .navbar-nav {
-  padding: 0;
-  decoration: none;
+.menu li a {
   color: #554646;
   font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  position: relative;
+  left: 1000px;
+  padding: 0px 10px 0px 5px;
+  float: left;
 }
 
-.navbar-nav:hover {
-  color: #fff;
-} */
+.menu li a:hover {
+  color: #ffffff;
+}
 
-#navbar-links a {
-  padding: 0;
-  decoration: none;
+/* HOME */
+
+.home img {
+  position: relative;
+  bottom: 80px;
+  left: 880px;
+  width: 350px;
+}
+
+.home h1 {
   color: #554646;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cinzel", serif;
+  font-size: 36px;
+  position: relative;
+  left: 250px;
+  top: 130px;
 }
 
-.navbar-expanded-lg .navbar-nav .nav-link {
-  padding: 1rem 0.8rem;
+.home h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  position: relative;
+  right: 200px;
+  top: 180px;
+  text-align: center;
+}
+
+.about img {
+  position: relative;
+  left: 230px;
+  width: 350px;
+  top: 50px;
+}
+
+.about a {
+  text-decoration: none;
+  color: #000000;
+  top: 45px;
+  right: 5px;
+  position: relative;
+  font-family: "Cinzel", serif;
+}
+
+.about h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 740px;
+  bottom: 230px;
+  padding-bottom: 20px;
 }
