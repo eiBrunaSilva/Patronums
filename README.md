@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/eiBrunaSilva/Patronums/blob/main/Patronums/assets/images/Patronums%20-%20Logo%202(sem%20fundo).png" width="25%" />
+    <img src="https://github.com/eiBrunaSilva/Patronums/blob/main/assets/Patronums%20-%20Logo%20sem%20texto%20(sem%20fundo).png" width="25%" />
 </h1>
 
 <p align="center">
