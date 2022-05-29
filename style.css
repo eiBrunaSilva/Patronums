@@ -18,6 +18,179 @@ nav a:hover{
     color:#FFFF!important;
 }
 
+/* Home */
+
+.titulo1{
+    font-family: 'Cinzel', serif;
+    margin-top: 100px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.p1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+
+.logo{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+/* About */
+
+.about{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.resume{
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #554646;
+}
+
+.p2{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 110px;
+    margin-left: 100px;
+}
+
+.p3{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 100px;
+}
 
 
+/* Skills */
+
+.skills{
+    width: 80%;
+    margin-top: 110px;
+    margin-left: 150px;
+}
+
+/* XP */
+
+.p4{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 110px;
+    margin-left: 150px;
+}
+
+.p5{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: #554646;
+    margin-top: 110px;
+    margin-left: 150px;
+}
+
+.p6{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: #554646;
+    margin-top: 110px;
+    margin-left: 150px;
+}
+
+.xp{
+    
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+/* Contact */
+.contact{
+    margin-top: 30px;
+}
+
+.p7{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 130px;
+    margin-left: 250px;
+    font-size: 18px;
+}
+
+.git{
+    width: 15%;
+    margin-left: 330px;
+}
+
+.p8{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 250px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.linkedin{
+    width: 4%;
+    margin-left: 340px;
+}
+
+.insta{
+    width: 3%;
+    margin-left: 10px;
+}
+
+.face{
+    width: 3%;
+    margin-left: 13px;
+}
+
+.p9{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 250px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.whats{
+    width: 4%;
+    margin-left: 320px;
+}
+
+.p10{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: #554646;
+    margin-top: 7px;
+    margin-left: 5px;
+
+}
+
+.p11{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 250px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.email{
+    width: 4%;
+    margin-left: 280px;
+}
+
+.p12{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: #554646;
+    margin-top: 7px;
+    margin-left: 5px;
+
+}
+
+
+/* Footer */
+
+.footer{
+    margin-top: 100px;
+    margin-left: 700px;
+    font-size: 18px;
+
+}
 
