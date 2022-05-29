@@ -1,0 +1,23 @@
+/* Menu */
+
+.menu {
+    background-color: #FAB855;
+}
+
+ul{
+    margin-left: 1000px;
+}
+
+li{
+    font-family: 'Poppins', sans-serif;
+    color: #554646;
+    font-size: 18px;
+}
+
+nav a:hover{
+    color:#FFFF!important;
+}
+
+
+
+
