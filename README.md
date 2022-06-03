@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/eiBrunaSilva/Patronums/blob/main/assets/Patronums%20-%20Logo%20sem%20texto%20(sem%20fundo).png" width="25%" />
+    <img src="https://github.com/eiBrunaSilva/Patronums/blob/main/assets/Logosemtexto.png" width="25%" />
 </h1>
 
 <p align="center">
@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 No link abaixo você encontra o video de apresentação do layout projeto web.
+
+https://showmore.com/pt/u/j3b1o58
 
 -------------
 
